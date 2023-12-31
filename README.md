@@ -1,1 +1,1 @@
-# -Uniq-Command
+# Uniq-Command
