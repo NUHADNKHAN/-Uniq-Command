@@ -1,1 +1,1 @@
-uniq -o
+uniq -u
